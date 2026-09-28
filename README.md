@@ -1,56 +1,49 @@
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=ecf05e47suyhwan5cl7112zj9nfjbd9c81hv853yo2ry5jv5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/arystan-ospanov-557a35245/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://media0.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" alt="coding"/>
 
-  <img src="https://komarev.com/ghpvc/?username=Ospann&style=flat-square&color=blue" alt=""/>
- 
+  <p>
+    <a href="https://www.linkedin.com/in/arystan-ospanov-557a35245/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Ospann&style=for-the-badge&color=0A66C2&label=Profile+views" alt="Profile views"/>
+  </p>
 </div>
 
 ---
 
-### :man_technologist: About Me :
-  I am a Full-Stack developer.
-  - 📔 Code review
+### 👨‍💻 About Me
 
-  - 👨‍🏫 Mentoring Junior specialists
+Full-Stack Developer & Co-founder of [@Maxinum](https://github.com/Maxinum)
 
-  - 🔍 Have experience in HR
-
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Arystan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arystan-ospanov-557a35245/)
+- 📔 Code review
+- 👨‍🏫 Mentoring junior specialists
+- 🔍 Experience in HR
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arystan-ospanov-557a35245/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-  <div>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="prometheus" alt="prometheus" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS"  alt="NestJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQLServer" alt="MSSQLServer" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="40" height="40"/>
-  </div>
-  
- ---
+### 🛠️ Languages and Tools
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ospann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+**Frontend**
 
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,materialui,jquery" alt="Frontend"/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php" alt="Backend"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
+
+**DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,docker,githubactions,jenkins,prometheus,nginx,ubuntu" alt="DevOps"/>
+
+---
+
+### 🔥 My Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ospann&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</div>
