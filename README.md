@@ -26,19 +26,23 @@ Full-Stack Developer & Co-founder of [@Maxinum](https://github.com/Maxinum)
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,materialui,jquery" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=next,react,ts,js,html,css,materialui,jquery" alt="Frontend"/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,cs" alt="Backend"/>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases"/>
 
 **DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,docker,githubactions,jenkins,prometheus,nginx,ubuntu" alt="DevOps"/>
+<img src="https://skillicons.dev/icons?i=git,docker,githubactions,jenkins,prometheus,nginx,ubuntu,gcp" alt="DevOps"/>
+
+**Others**
+
+<img src="https://skillicons.dev/icons?i=electron,godot,mqtt" alt="Other"/>
 
 ---
 
