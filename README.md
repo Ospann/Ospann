@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arystan+%F0%9F%91%8B;Full-Stack+Developer;Co-founder+of+Maxinum" alt="Typing SVG"/>
 
   <p>
-    <a href="https://www.linkedin.com/in/arystan-ospanov-557a35245/">
+    <a href="https://www.linkedin.com/in/arystan-ospanov/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:osp.ars.work@gmail.com">
